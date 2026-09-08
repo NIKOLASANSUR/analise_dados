@@ -1,0 +1,8 @@
+AULA 4 - POPULACAO
+
+1. Coloque a tabela .xlsx fornecida pelo professor nesta mesma pasta.
+2. Abra exercicio_populacao.ipynb no VS Code/Jupyter.
+3. Execute as células na ordem.
+4. Serão criados automaticamente:
+   - populacao_estado_crescimento.csv
+   - populacao_municipio_crescimento.csv
