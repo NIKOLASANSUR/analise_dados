@@ -1,0 +1,601 @@
+data,loja,regiao,produto,categoria,quantidade,preco_unitario
+2025-01-02,Loja Recife,Nordeste,Fone de Ouvido,Acessórios,7.0,161.7
+2025-01-03,Loja Savassi,Sudeste,Webcam,Acessórios,3.0,209.33
+2025-01-03,Loja Centro,Sudeste,Mesa de Escritório,Móveis,7.0,616.62
+2025-01-03,Loja Salvador,Nordeste,Monitor,Eletrônicos,1.0,1029.31
+2025-01-04,Loja Savassi,Sudeste,Fone de Ouvido,Acessórios,2.0,146.13
+2025-01-06,Loja Recife,Nordeste,Smartphone,Eletrônicos,2.0,1775.71
+2025-01-07,Loja Centro,Sudeste,Teclado,Acessórios,1.0,118.59
+2025-01-07,Loja Recife,Nordeste,Notebook,Eletrônicos,2.0,3414.48
+2025-01-08,Loja Recife,Nordeste,Webcam,Acessórios,3.0,227.15
+2025-01-08,Loja Porto Alegre,Sul,Smartphone,Eletrônicos,1.0,1632.66
+2025-01-08,Loja Recife,Nordeste,Fone de Ouvido,Acessórios,1.0,158.38
+2025-01-09,Loja Porto Alegre,Sul,Cadeira Gamer,Móveis,2.0,823.5
+2025-01-09,Loja Savassi,Sudeste,Cadeira Gamer,Móveis,6.0,796.94
+2025-01-09,Loja Brasília,Centro-Oeste,Impressora,Eletrônicos,9.0,776.44
+2025-01-10,Loja Recife,Nordeste,Mouse,Acessórios,3.0,65.74
+2025-01-10,Loja Brasília,Centro-Oeste,Monitor,Eletrônicos,5.0,880.66
+2025-01-12,Loja Porto Alegre,Sul,Fone de Ouvido,Acessórios,5.0,152.83
+2025-01-12,Loja Recife,Nordeste,Cadeira Gamer,Móveis,6.0,868.07
+2025-01-13,Loja Recife,Nordeste,Webcam,Acessórios,2.0,216.7
+2025-01-14,Loja Recife,Nordeste,Mesa de Escritório,Móveis,3.0,607.52
+2025-01-14,Loja Savassi,Sudeste,Smartphone,Eletrônicos,6.0,1792.23
+2025-01-16,Loja Recife,Nordeste,Smartphone,Eletrônicos,6.0,1692.67
+2025-01-16,Loja Porto Alegre,Sul,Teclado,Acessórios,7.0,112.06
+2025-01-16,Loja Recife,Nordeste,Notebook,Eletrônicos,8.0,3425.52
+2025-01-17,Loja Savassi,Sudeste,Webcam,Acessórios,3.0,217.31
+2025-01-17,Loja Recife,Nordeste,Cadeira Gamer,Móveis,3.0,797.63
+2025-01-18,Loja Savassi,Sudeste,Mouse,Acessórios,4.0,75.35
+2025-01-19,Loja Porto Alegre,Sul,Impressora,Eletrônicos,4.0,725.95
+2025-01-20,Loja Porto Alegre,Sul,Impressora,Eletrônicos,,801.15
+2025-01-21,Loja Porto Alegre,Sul,Mesa de Escritório,Móveis,4.0,567.69
+2025-01-22,Loja Centro,Sudeste,Monitor,Eletrônicos,3.0,877.5
+2025-01-24,Loja Recife,Nordeste,Fone de Ouvido,Acessórios,3.0,149.59
+2025-01-24,Loja Salvador,Nordeste,Mouse,Acessórios,2.0,64.39
+2025-01-25,Loja Salvador,Nordeste,Webcam,Acessórios,,213.72
+2025-01-25,Loja Recife,Nordeste,Mouse,Acessórios,4.0,71.49
+2025-01-25,Loja Recife,Nordeste,Webcam,Acessórios,3.0,213.16
+2025-01-28,Loja Brasília,Centro-Oeste,Impressora,Eletrônicos,1.0,779.79
+2025-01-29,Loja Centro,Sudeste,Cadeira Gamer,Móveis,4.0,857.76
+2025-01-29,Loja Salvador,Nordeste,Cadeira Gamer,Móveis,4.0,828.42
+2025-01-30,Loja Porto Alegre,Sul,Smartphone,Eletrônicos,5.0,1708.52
+2025-01-31,Loja Porto Alegre,Sul,Monitor,Eletrônicos,6.0,
+2025-01-31,Loja Centro,Sudeste,Notebook,Eletrônicos,9.0,3243.88
+2025-01-31,Loja Recife,Nordeste,Teclado,Acessórios,2.0,
+2025-02-01,Loja Savassi,Sudeste,Monitor,Eletrônicos,1.0,969.3
+2025-02-01,Loja Savassi,Sudeste,Monitor,Eletrônicos,1.0,884.59
+2025-02-02,Loja Brasília,Centro-Oeste,Mouse,Acessórios,9.0,76.26
+2025-02-02,Loja Recife,Nordeste,Webcam,Acessórios,1.0,222.92
+2025-02-03,Loja Brasília,Centro-Oeste,Teclado,Acessórios,8.0,120.88
+2025-02-03,Loja Brasília,Centro-Oeste,Impressora,Eletrônicos,,802.31
+2025-02-03,Loja Porto Alegre,Sul,Impressora,Eletrônicos,6.0,732.5
+2025-02-04,Loja Brasília,Centro-Oeste,Impressora,Eletrônicos,7.0,725.96
+2025-02-04,Loja Savassi,Sudeste,Mouse,Acessórios,7.0,66.15
+2025-02-04,Loja Brasília,Centro-Oeste,Impressora,Eletrônicos,9.0,767.31
+2025-02-04,Loja Recife,Nordeste,Notebook,Eletrônicos,2.0,2988.62
+2025-02-05,Loja Porto Alegre,Sul,Impressora,Eletrônicos,6.0,763.07
+2025-02-05,Loja Centro,Sudeste,Teclado,Acessórios,7.0,121.04
+2025-02-06,Loja Recife,Nordeste,Notebook,Eletrônicos,9.0,3319.07
+2025-02-07,Loja Centro,Sudeste,Cadeira Gamer,Móveis,6.0,844.5
+2025-02-07,Loja Centro,Sudeste,Teclado,Acessórios,7.0,118.51
+2025-02-08,Loja Salvador,Nordeste,Notebook,Eletrônicos,9.0,3046.85
+2025-02-08,Loja Recife,Nordeste,Webcam,Acessórios,8.0,202.26
+2025-02-08,Loja Savassi,Sudeste,Fone de Ouvido,Acessórios,9.0,136.05
+2025-02-08,Loja Porto Alegre,Sul,Webcam,Acessórios,1.0,231.89
+2025-02-09,Loja Recife,Nordeste,Mesa de Escritório,Móveis,9.0,603.53
+2025-02-09,Loja Centro,Sudeste,Cadeira Gamer,Móveis,3.0,891.68
+2025-02-09,Loja Brasília,Centro-Oeste,Monitor,Eletrônicos,7.0,955.22
+2025-02-11,Loja Porto Alegre,Sul,Fone de Ouvido,Acessórios,3.0,162.54
+2025-02-11,Loja Recife,Nordeste,Mouse,Acessórios,5.0,74.93
+2025-02-12,Loja Brasília,Centro-Oeste,Monitor,Eletrônicos,,1005.38
+2025-02-12,Loja Porto Alegre,Sul,Notebook,Eletrônicos,8.0,3018.19
+2025-02-13,Loja Brasília,Centro-Oeste,Teclado,Acessórios,2.0,112.52
+2025-02-13,Loja Porto Alegre,Sul,Cadeira Gamer,Móveis,9.0,920.68
+2025-02-13,Loja Porto Alegre,Sul,Mesa de Escritório,Móveis,9.0,615.22
+2025-02-14,Loja Recife,Nordeste,Mouse,Acessórios,3.0,76.14
+2025-02-14,Loja Porto Alegre,Sul,Monitor,Eletrônicos,9.0,963.52
+2025-02-15,Loja Salvador,Nordeste,Monitor,Eletrônicos,8.0,933.25
+2025-02-16,Loja Centro,Sudeste,Impressora,Eletrônicos,3.0,811.95
+2025-02-16,Loja Salvador,Nordeste,Mouse,Acessórios,5.0,70.29
+2025-02-16,Loja Savassi,Sudeste,Mesa de Escritório,Móveis,3.0,607.69
+2025-02-17,Loja Savassi,Sudeste,Webcam,Acessórios,2.0,228.38
+2025-02-17,Loja Centro,Sudeste,Cadeira Gamer,Móveis,9.0,864.41
+2025-02-18,Loja Porto Alegre,Sul,Teclado,Acessórios,5.0,119.24
+2025-02-18,Loja Savassi,Sudeste,Cadeira Gamer,Móveis,2.0,829.31
+2025-02-21,Loja Porto Alegre,Sul,Monitor,Eletrônicos,5.0,860.04
+2025-02-21,Loja Salvador,Nordeste,Cadeira Gamer,Móveis,9.0,873.67
+2025-02-21,Loja Centro,Sudeste,Notebook,Eletrônicos,4.0,3129.02
+2025-02-21,Loja Salvador,Nordeste,Fone de Ouvido,Acessórios,3.0,150.17
+2025-02-21,Loja Savassi,Sudeste,Mesa de Escritório,Móveis,3.0,568.36
+2025-02-21,Loja Porto Alegre,Sul,Notebook,Eletrônicos,1.0,2974.35
+2025-02-22,Loja Recife,Nordeste,Monitor,Eletrônicos,2.0,1019.37
+2025-02-22,Loja Recife,Nordeste,Monitor,Eletrônicos,,905.27
+2025-02-22,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,4.0,2937.97
+2025-02-23,Loja Centro,Sudeste,Mesa de Escritório,Móveis,1.0,566.42
+2025-02-24,Loja Porto Alegre,Sul,Webcam,Acessórios,8.0,207.89
+2025-02-25,Loja Recife,Nordeste,Fone de Ouvido,Acessórios,6.0,136.08
+2025-02-25,Loja Centro,Sudeste,Teclado,Acessórios,4.0,
+2025-02-25,Loja Porto Alegre,Sul,Webcam,Acessórios,4.0,238.92
+2025-02-25,Loja Salvador,Nordeste,Notebook,Eletrônicos,6.0,2988.67
+2025-02-26,Loja Salvador,Nordeste,Cadeira Gamer,Móveis,3.0,892.45
+2025-02-26,Loja Centro,Sudeste,Mesa de Escritório,Móveis,5.0,629.53
+2025-02-26,Loja Recife,Nordeste,Monitor,Eletrônicos,6.0,1010.76
+2025-02-28,Loja Centro,Sudeste,Mesa de Escritório,Móveis,4.0,644.57
+2025-02-28,Loja Centro,Sudeste,Smartphone,Eletrônicos,7.0,1973.3
+2025-02-28,Loja Brasília,Centro-Oeste,Mouse,Acessórios,2.0,69.04
+2025-03-02,Loja Porto Alegre,Sul,Teclado,Acessórios,5.0,111.35
+2025-03-02,Loja Brasília,Centro-Oeste,Mesa de Escritório,Móveis,7.0,641.81
+2025-03-02,Loja Salvador,Nordeste,Impressora,Eletrônicos,8.0,709.94
+2025-03-02,Loja Salvador,Nordeste,Monitor,Eletrônicos,4.0,1018.45
+2025-03-02,Loja Savassi,Sudeste,Notebook,Eletrônicos,8.0,3054.59
+2025-03-02,Loja Centro,Sudeste,Monitor,Eletrônicos,8.0,989.1
+2025-03-04,Loja Brasília,Centro-Oeste,Mouse,Acessórios,6.0,70.57
+2025-03-05,Loja Savassi,Sudeste,Mesa de Escritório,Móveis,7.0,570.36
+2025-03-05,Loja Salvador,Nordeste,Fone de Ouvido,Acessórios,4.0,163.37
+2025-03-05,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,7.0,3493.45
+2025-03-06,Loja Centro,Sudeste,Mesa de Escritório,Móveis,4.0,593.53
+2025-03-07,Loja Brasília,Centro-Oeste,Fone de Ouvido,Acessórios,2.0,159.02
+2025-03-07,Loja Brasília,Centro-Oeste,Teclado,Acessórios,8.0,115.53
+2025-03-07,Loja Recife,Nordeste,Mouse,Acessórios,4.0,63.81
+2025-03-08,Loja Porto Alegre,Sul,Monitor,Eletrônicos,2.0,864.6
+2025-03-08,Loja Centro,Sudeste,Impressora,Eletrônicos,3.0,841.54
+2025-03-08,Loja Recife,Nordeste,Cadeira Gamer,Móveis,2.0,780.3
+2025-03-10,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,4.0,3433.05
+2025-03-11,Loja Recife,Nordeste,Smartphone,Eletrônicos,2.0,1757.06
+2025-03-12,Loja Savassi,Sudeste,Cadeira Gamer,Móveis,4.0,886.03
+2025-03-13,Loja Brasília,Centro-Oeste,Teclado,Acessórios,5.0,108.65
+2025-03-13,Loja Recife,Nordeste,Teclado,Acessórios,3.0,110.58
+2025-03-13,Loja Porto Alegre,Sul,Mesa de Escritório,Móveis,8.0,561.06
+2025-03-14,Loja Centro,Sudeste,Impressora,Eletrônicos,6.0,818.54
+2025-03-14,Loja Recife,Nordeste,Teclado,Acessórios,5.0,121.5
+2025-03-15,Loja Recife,Nordeste,Cadeira Gamer,Móveis,6.0,830.68
+2025-03-15,Loja Brasília,Centro-Oeste,Fone de Ouvido,Acessórios,1.0,142.81
+2025-03-15,Loja Porto Alegre,Sul,Mesa de Escritório,Móveis,5.0,637.81
+2025-03-20,Loja Salvador,Nordeste,Smartphone,Eletrônicos,3.0,1911.95
+2025-03-23,Loja Brasília,Centro-Oeste,Fone de Ouvido,Acessórios,4.0,161.69
+2025-03-24,Loja Centro,Sudeste,Mesa de Escritório,Móveis,9.0,552.39
+2025-03-24,Loja Savassi,Sudeste,Mesa de Escritório,Móveis,9.0,610.29
+2025-03-25,Loja Centro,Sudeste,Monitor,Eletrônicos,4.0,1043.07
+2025-03-25,Loja Salvador,Nordeste,Smartphone,Eletrônicos,,1899.28
+2025-03-26,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,3.0,2992.12
+2025-03-26,Loja Brasília,Centro-Oeste,Monitor,Eletrônicos,8.0,900.28
+2025-03-27,Loja Savassi,Sudeste,Mesa de Escritório,Móveis,9.0,584.4
+2025-03-28,Loja Centro,Sudeste,Fone de Ouvido,Acessórios,5.0,143.52
+2025-03-28,Loja Recife,Nordeste,Mouse,Acessórios,3.0,68.01
+2025-03-28,Loja Centro,Sudeste,Impressora,Eletrônicos,1.0,713.12
+2025-03-29,Loja Savassi,Sudeste,Mouse,Acessórios,6.0,
+2025-03-29,Loja Recife,Nordeste,Webcam,Acessórios,2.0,237.73
+2025-03-29,Loja Recife,Nordeste,Teclado,Acessórios,6.0,114.43
+2025-03-29,Loja Salvador,Nordeste,Fone de Ouvido,Acessórios,6.0,137.84
+2025-03-31,Loja Recife,Nordeste,Fone de Ouvido,Acessórios,7.0,161.84
+2025-03-31,Loja Savassi,Sudeste,Teclado,Acessórios,5.0,125.84
+2025-04-01,Loja Brasília,Centro-Oeste,Impressora,Eletrônicos,2.0,766.33
+2025-04-02,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,3.0,3359.59
+2025-04-02,Loja Porto Alegre,Sul,Teclado,Acessórios,2.0,
+2025-04-04,Loja Centro,Sudeste,Monitor,Eletrônicos,4.0,929.49
+2025-04-06,Loja Recife,Nordeste,Cadeira Gamer,Móveis,5.0,913.4
+2025-04-06,Loja Centro,Sudeste,Notebook,Eletrônicos,5.0,3411.21
+2025-04-07,Loja Porto Alegre,Sul,Notebook,Eletrônicos,8.0,3435.07
+2025-04-08,Loja Salvador,Nordeste,Smartphone,Eletrônicos,2.0,1722.98
+2025-04-08,Loja Salvador,Nordeste,Teclado,Acessórios,3.0,127.73
+2025-04-09,Loja Brasília,Centro-Oeste,Fone de Ouvido,Acessórios,3.0,161.27
+2025-04-10,Loja Brasília,Centro-Oeste,Mesa de Escritório,Móveis,3.0,635.49
+2025-04-11,Loja Recife,Nordeste,Smartphone,Eletrônicos,8.0,1793.43
+2025-04-11,Loja Savassi,Sudeste,Impressora,Eletrônicos,9.0,775.93
+2025-04-11,Loja Centro,Sudeste,Smartphone,Eletrônicos,8.0,1771.84
+2025-04-12,Loja Salvador,Nordeste,Fone de Ouvido,Acessórios,3.0,140.28
+2025-04-12,Loja Savassi,Sudeste,Cadeira Gamer,Móveis,6.0,896.21
+2025-04-12,Loja Salvador,Nordeste,Monitor,Eletrônicos,1.0,929.57
+2025-04-13,Loja Brasília,Centro-Oeste,Webcam,Acessórios,6.0,233.73
+2025-04-13,Loja Brasília,Centro-Oeste,Mouse,Acessórios,9.0,73.46
+2025-04-13,Loja Centro,Sudeste,Mouse,Acessórios,6.0,74.73
+2025-04-14,Loja Porto Alegre,Sul,Mouse,Acessórios,1.0,71.83
+2025-04-14,Loja Salvador,Nordeste,Webcam,Acessórios,8.0,209.33
+2025-04-14,Loja Centro,Sudeste,Teclado,Acessórios,7.0,116.34
+2025-04-15,Loja Centro,Sudeste,Webcam,Acessórios,4.0,233.32
+2025-04-16,Loja Savassi,Sudeste,Smartphone,Eletrônicos,7.0,1864.07
+2025-04-16,Loja Savassi,Sudeste,Monitor,Eletrônicos,8.0,926.93
+2025-04-16,Loja Brasília,Centro-Oeste,Impressora,Eletrônicos,7.0,818.18
+2025-04-17,Loja Porto Alegre,Sul,Fone de Ouvido,Acessórios,8.0,142.22
+2025-04-18,Loja Brasília,Centro-Oeste,Impressora,Eletrônicos,5.0,749.39
+2025-04-18,Loja Porto Alegre,Sul,Webcam,Acessórios,2.0,239.21
+2025-04-19,Loja Centro,Sudeste,Smartphone,Eletrônicos,3.0,1977.87
+2025-04-20,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,6.0,2942.58
+2025-04-20,Loja Centro,Sudeste,Notebook,Eletrônicos,2.0,2997.0
+2025-04-20,Loja Recife,Nordeste,Monitor,Eletrônicos,8.0,912.56
+2025-04-21,Loja Centro,Sudeste,Impressora,Eletrônicos,9.0,709.04
+2025-04-21,Loja Porto Alegre,Sul,Impressora,Eletrônicos,7.0,816.91
+2025-04-21,Loja Salvador,Nordeste,Impressora,Eletrônicos,2.0,835.48
+2025-04-22,Loja Centro,Sudeste,Webcam,Acessórios,5.0,215.23
+2025-04-23,Loja Centro,Sudeste,Mouse,Acessórios,9.0,76.11
+2025-04-24,Loja Savassi,Sudeste,Impressora,Eletrônicos,5.0,787.84
+2025-04-24,Loja Brasília,Centro-Oeste,Mesa de Escritório,Móveis,8.0,546.63
+2025-04-24,Loja Recife,Nordeste,Mesa de Escritório,Móveis,2.0,571.77
+2025-04-25,Loja Savassi,Sudeste,Mouse,Acessórios,6.0,67.05
+2025-04-25,Loja Recife,Nordeste,Fone de Ouvido,Acessórios,4.0,144.88
+2025-04-26,Loja Centro,Sudeste,Smartphone,Eletrônicos,1.0,1889.28
+2025-04-26,Loja Porto Alegre,Sul,Webcam,Acessórios,3.0,207.48
+2025-04-26,Loja Savassi,Sudeste,Cadeira Gamer,Móveis,,767.69
+2025-04-27,Loja Recife,Nordeste,Webcam,Acessórios,1.0,227.82
+2025-04-27,Loja Brasília,Centro-Oeste,Mouse,Acessórios,5.0,74.36
+2025-04-27,Loja Brasília,Centro-Oeste,Monitor,Eletrônicos,7.0,949.16
+2025-04-28,Loja Brasília,Centro-Oeste,Webcam,Acessórios,7.0,
+2025-04-28,Loja Recife,Nordeste,Mouse,Acessórios,4.0,66.0
+2025-04-28,Loja Recife,Nordeste,Teclado,Acessórios,5.0,129.84
+2025-04-29,Loja Salvador,Nordeste,Notebook,Eletrônicos,4.0,3395.96
+2025-05-01,Loja Savassi,Sudeste,Fone de Ouvido,Acessórios,9.0,163.47
+2025-05-01,Loja Recife,Nordeste,Cadeira Gamer,Móveis,3.0,797.85
+2025-05-02,Loja Salvador,Nordeste,Teclado,Acessórios,9.0,
+2025-05-02,Loja Brasília,Centro-Oeste,Mouse,Acessórios,2.0,73.94
+2025-05-03,Loja Savassi,Sudeste,Notebook,Eletrônicos,1.0,3140.71
+2025-05-03,Loja Centro,Sudeste,Impressora,Eletrônicos,8.0,731.4
+2025-05-04,Loja Savassi,Sudeste,Notebook,Eletrônicos,3.0,3243.17
+2025-05-06,Loja Brasília,Centro-Oeste,Cadeira Gamer,Móveis,5.0,855.93
+2025-05-07,Loja Salvador,Nordeste,Mesa de Escritório,Móveis,9.0,645.38
+2025-05-07,Loja Brasília,Centro-Oeste,Mouse,Acessórios,9.0,66.2
+2025-05-10,Loja Porto Alegre,Sul,Teclado,Acessórios,8.0,109.33
+2025-05-11,Loja Centro,Sudeste,Notebook,Eletrônicos,1.0,2895.65
+2025-05-13,Loja Centro,Sudeste,Monitor,Eletrônicos,9.0,982.65
+2025-05-13,Loja Salvador,Nordeste,Mesa de Escritório,Móveis,,547.18
+2025-05-13,Loja Savassi,Sudeste,Notebook,Eletrônicos,5.0,2953.81
+2025-05-14,Loja Centro,Sudeste,Webcam,Acessórios,8.0,217.58
+2025-05-14,Loja Centro,Sudeste,Teclado,Acessórios,8.0,115.77
+2025-05-15,Loja Savassi,Sudeste,Mouse,Acessórios,3.0,76.29
+2025-05-16,Loja Salvador,Nordeste,Notebook,Eletrônicos,9.0,2961.46
+2025-05-16,Loja Brasília,Centro-Oeste,Mouse,Acessórios,7.0,76.7
+2025-05-16,Loja Porto Alegre,Sul,Monitor,Eletrônicos,7.0,
+2025-05-17,Loja Porto Alegre,Sul,Webcam,Acessórios,7.0,234.81
+2025-05-17,Loja Porto Alegre,Sul,Smartphone,Eletrônicos,9.0,1807.97
+2025-05-17,Loja Salvador,Nordeste,Smartphone,Eletrônicos,5.0,1906.28
+2025-05-19,Loja Porto Alegre,Sul,Smartphone,Eletrônicos,6.0,1978.14
+2025-05-20,Loja Salvador,Nordeste,Mouse,Acessórios,2.0,67.22
+2025-05-22,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,7.0,3085.26
+2025-05-24,Loja Recife,Nordeste,Webcam,Acessórios,7.0,206.87
+2025-05-26,Loja Salvador,Nordeste,Fone de Ouvido,Acessórios,8.0,156.89
+2025-05-27,Loja Porto Alegre,Sul,Smartphone,Eletrônicos,1.0,1789.18
+2025-05-28,Loja Porto Alegre,Sul,Mesa de Escritório,Móveis,2.0,569.56
+2025-05-29,Loja Brasília,Centro-Oeste,Fone de Ouvido,Acessórios,8.0,136.2
+2025-05-30,Loja Brasília,Centro-Oeste,Mouse,Acessórios,2.0,71.66
+2025-05-30,Loja Savassi,Sudeste,Monitor,Eletrônicos,1.0,962.23
+2025-05-30,Loja Recife,Nordeste,Fone de Ouvido,Acessórios,8.0,152.31
+2025-05-30,Loja Porto Alegre,Sul,Mesa de Escritório,Móveis,9.0,606.26
+2025-05-31,Loja Centro,Sudeste,Cadeira Gamer,Móveis,8.0,853.93
+2025-06-01,Loja Recife,Nordeste,Mouse,Acessórios,8.0,73.84
+2025-06-01,Loja Centro,Sudeste,Impressora,Eletrônicos,5.0,785.81
+2025-06-02,Loja Salvador,Nordeste,Monitor,Eletrônicos,4.0,930.09
+2025-06-02,Loja Porto Alegre,Sul,Monitor,Eletrônicos,8.0,942.73
+2025-06-02,Loja Salvador,Nordeste,Monitor,Eletrônicos,5.0,895.08
+2025-06-02,Loja Salvador,Nordeste,Impressora,Eletrônicos,7.0,783.05
+2025-06-05,Loja Porto Alegre,Sul,Impressora,Eletrônicos,9.0,814.61
+2025-06-06,Loja Recife,Nordeste,Impressora,Eletrônicos,3.0,818.06
+2025-06-07,Loja Salvador,Nordeste,Fone de Ouvido,Acessórios,3.0,157.8
+2025-06-07,Loja Savassi,Sudeste,Cadeira Gamer,Móveis,1.0,852.68
+2025-06-08,Loja Brasília,Centro-Oeste,Fone de Ouvido,Acessórios,2.0,148.85
+2025-06-08,Loja Salvador,Nordeste,Cadeira Gamer,Móveis,2.0,769.52
+2025-06-08,Loja Brasília,Centro-Oeste,Smartphone,Eletrônicos,2.0,1967.23
+2025-06-08,Loja Centro,Sudeste,Teclado,Acessórios,6.0,131.59
+2025-06-08,Loja Recife,Nordeste,Fone de Ouvido,Acessórios,9.0,161.23
+2025-06-08,Loja Porto Alegre,Sul,Cadeira Gamer,Móveis,5.0,827.78
+2025-06-09,Loja Centro,Sudeste,Mesa de Escritório,Móveis,3.0,589.04
+2025-06-09,Loja Brasília,Centro-Oeste,Teclado,Acessórios,2.0,116.99
+2025-06-10,Loja Centro,Sudeste,Smartphone,Eletrônicos,4.0,1798.71
+2025-06-10,Loja Centro,Sudeste,Mesa de Escritório,Móveis,8.0,615.73
+2025-06-10,Loja Centro,Sudeste,Mesa de Escritório,Móveis,3.0,625.26
+2025-06-11,Loja Porto Alegre,Sul,Fone de Ouvido,Acessórios,9.0,136.78
+2025-06-11,Loja Salvador,Nordeste,Teclado,Acessórios,2.0,123.3
+2025-06-12,Loja Porto Alegre,Sul,Webcam,Acessórios,4.0,224.86
+2025-06-12,Loja Recife,Nordeste,Fone de Ouvido,Acessórios,8.0,136.21
+2025-06-13,Loja Recife,Nordeste,Webcam,Acessórios,7.0,237.55
+2025-06-13,Loja Salvador,Nordeste,Cadeira Gamer,Móveis,7.0,838.91
+2025-06-14,Loja Centro,Sudeste,Teclado,Acessórios,3.0,109.59
+2025-06-14,Loja Savassi,Sudeste,Mesa de Escritório,Móveis,9.0,653.21
+2025-06-14,Loja Salvador,Nordeste,Webcam,Acessórios,4.0,207.47
+2025-06-15,Loja Savassi,Sudeste,Webcam,Acessórios,1.0,241.41
+2025-06-16,Loja Salvador,Nordeste,Monitor,Eletrônicos,5.0,1023.28
+2025-06-16,Loja Recife,Nordeste,Impressora,Eletrônicos,6.0,777.34
+2025-06-16,Loja Salvador,Nordeste,Smartphone,Eletrônicos,8.0,1688.17
+2025-06-17,Loja Salvador,Nordeste,Webcam,Acessórios,7.0,198.2
+2025-06-17,Loja Porto Alegre,Sul,Webcam,Acessórios,4.0,201.08
+2025-06-18,Loja Brasília,Centro-Oeste,Impressora,Eletrônicos,1.0,714.59
+2025-06-18,Loja Savassi,Sudeste,Mouse,Acessórios,7.0,64.65
+2025-06-18,Loja Recife,Nordeste,Impressora,Eletrônicos,6.0,764.01
+2025-06-19,Loja Savassi,Sudeste,Teclado,Acessórios,6.0,130.34
+2025-06-20,Loja Salvador,Nordeste,Mesa de Escritório,Móveis,2.0,614.35
+2025-06-20,Loja Recife,Nordeste,Teclado,Acessórios,5.0,118.48
+2025-06-20,Loja Recife,Nordeste,Mesa de Escritório,Móveis,5.0,555.4
+2025-06-21,Loja Centro,Sudeste,Webcam,Acessórios,4.0,232.61
+2025-06-21,Loja Recife,Nordeste,Impressora,Eletrônicos,,714.66
+2025-06-21,Loja Centro,Sudeste,Notebook,Eletrônicos,7.0,3195.95
+2025-06-22,Loja Savassi,Sudeste,Monitor,Eletrônicos,1.0,945.36
+2025-06-22,Loja Porto Alegre,Sul,Teclado,Acessórios,1.0,109.26
+2025-06-23,Loja Salvador,Nordeste,Teclado,Acessórios,8.0,123.8
+2025-06-23,Loja Salvador,Nordeste,Mesa de Escritório,Móveis,2.0,578.53
+2025-06-26,Loja Recife,Nordeste,Mouse,Acessórios,4.0,70.11
+2025-06-27,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,1.0,2922.77
+2025-06-28,Loja Porto Alegre,Sul,Monitor,Eletrônicos,2.0,893.11
+2025-06-29,Loja Brasília,Centro-Oeste,Mouse,Acessórios,9.0,65.88
+2025-06-29,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,9.0,3015.53
+2025-06-29,Loja Centro,Sudeste,Smartphone,Eletrônicos,7.0,1702.07
+2025-06-30,Loja Salvador,Nordeste,Notebook,Eletrônicos,3.0,3275.38
+2025-06-30,Loja Porto Alegre,Sul,Mouse,Acessórios,6.0,76.42
+2025-06-30,Loja Recife,Nordeste,Fone de Ouvido,Acessórios,4.0,164.06
+2025-07-01,Loja Centro,Sudeste,Mouse,Acessórios,1.0,70.48
+2025-07-01,Loja Recife,Nordeste,Cadeira Gamer,Móveis,1.0,785.73
+2025-07-02,Loja Brasília,Centro-Oeste,Webcam,Acessórios,8.0,210.15
+2025-07-02,Loja Brasília,Centro-Oeste,Monitor,Eletrônicos,8.0,936.51
+2025-07-02,Loja Recife,Nordeste,Notebook,Eletrônicos,3.0,3043.03
+2025-07-02,Loja Centro,Sudeste,Smartphone,Eletrônicos,5.0,1704.69
+2025-07-02,Loja Porto Alegre,Sul,Cadeira Gamer,Móveis,3.0,765.18
+2025-07-04,Loja Recife,Nordeste,Mouse,Acessórios,4.0,71.1
+2025-07-04,Loja Centro,Sudeste,Impressora,Eletrônicos,2.0,708.03
+2025-07-04,Loja Brasília,Centro-Oeste,Impressora,Eletrônicos,3.0,708.01
+2025-07-04,Loja Centro,Sudeste,Smartphone,Eletrônicos,6.0,1868.45
+2025-07-05,Loja Salvador,Nordeste,Smartphone,Eletrônicos,7.0,1686.74
+2025-07-07,Loja Porto Alegre,Sul,Monitor,Eletrônicos,6.0,888.51
+2025-07-07,Loja Savassi,Sudeste,Monitor,Eletrônicos,3.0,914.8
+2025-07-08,Loja Salvador,Nordeste,Webcam,Acessórios,2.0,218.95
+2025-07-09,Loja Recife,Nordeste,Teclado,Acessórios,9.0,119.06
+2025-07-10,Loja Recife,Nordeste,Teclado,Acessórios,8.0,
+2025-07-10,Loja Salvador,Nordeste,Impressora,Eletrônicos,2.0,
+2025-07-11,Loja Savassi,Sudeste,Smartphone,Eletrônicos,2.0,1781.06
+2025-07-12,Loja Brasília,Centro-Oeste,Cadeira Gamer,Móveis,3.0,893.84
+2025-07-13,Loja Brasília,Centro-Oeste,Teclado,Acessórios,8.0,120.13
+2025-07-13,Loja Savassi,Sudeste,Impressora,Eletrônicos,3.0,716.63
+2025-07-14,Loja Centro,Sudeste,Fone de Ouvido,Acessórios,3.0,138.93
+2025-07-15,Loja Recife,Nordeste,Mouse,Acessórios,6.0,67.65
+2025-07-17,Loja Centro,Sudeste,Smartphone,Eletrônicos,3.0,1942.83
+2025-07-17,Loja Salvador,Nordeste,Notebook,Eletrônicos,1.0,3220.03
+2025-07-18,Loja Porto Alegre,Sul,Monitor,Eletrônicos,8.0,1009.3
+2025-07-18,Loja Salvador,Nordeste,Teclado,Acessórios,2.0,118.28
+2025-07-19,Loja Recife,Nordeste,Smartphone,Eletrônicos,6.0,1956.8
+2025-07-19,Loja Recife,Nordeste,Notebook,Eletrônicos,7.0,3077.33
+2025-07-19,Loja Brasília,Centro-Oeste,Fone de Ouvido,Acessórios,5.0,158.4
+2025-07-19,Loja Salvador,Nordeste,Fone de Ouvido,Acessórios,4.0,157.63
+2025-07-22,Loja Porto Alegre,Sul,Mesa de Escritório,Móveis,5.0,599.59
+2025-07-22,Loja Porto Alegre,Sul,Mesa de Escritório,Móveis,1.0,621.54
+2025-07-22,Loja Salvador,Nordeste,Mesa de Escritório,Móveis,1.0,609.48
+2025-07-22,Loja Savassi,Sudeste,Teclado,Acessórios,2.0,119.03
+2025-07-22,Loja Brasília,Centro-Oeste,Fone de Ouvido,Acessórios,7.0,147.06
+2025-07-22,Loja Recife,Nordeste,Impressora,Eletrônicos,3.0,744.66
+2025-07-23,Loja Porto Alegre,Sul,Smartphone,Eletrônicos,5.0,1786.92
+2025-07-24,Loja Salvador,Nordeste,Webcam,Acessórios,9.0,240.48
+2025-07-26,Loja Recife,Nordeste,Notebook,Eletrônicos,7.0,3434.33
+2025-07-26,Loja Salvador,Nordeste,Teclado,Acessórios,1.0,126.6
+2025-07-26,Loja Centro,Sudeste,Smartphone,Eletrônicos,2.0,1936.35
+2025-07-27,Loja Salvador,Nordeste,Fone de Ouvido,Acessórios,5.0,155.41
+2025-07-27,Loja Brasília,Centro-Oeste,Smartphone,Eletrônicos,3.0,1765.21
+2025-07-28,Loja Savassi,Sudeste,Notebook,Eletrônicos,6.0,3180.16
+2025-07-28,Loja Brasília,Centro-Oeste,Smartphone,Eletrônicos,2.0,1917.81
+2025-07-29,Loja Porto Alegre,Sul,Cadeira Gamer,Móveis,2.0,810.96
+2025-07-30,Loja Recife,Nordeste,Webcam,Acessórios,5.0,236.13
+2025-07-31,Loja Brasília,Centro-Oeste,Impressora,Eletrônicos,9.0,714.08
+2025-07-31,Loja Salvador,Nordeste,Impressora,Eletrônicos,9.0,790.74
+2025-08-01,Loja Salvador,Nordeste,Smartphone,Eletrônicos,5.0,1862.23
+2025-08-01,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,4.0,2936.99
+2025-08-02,Loja Recife,Nordeste,Monitor,Eletrônicos,9.0,864.33
+2025-08-03,Loja Salvador,Nordeste,Monitor,Eletrônicos,4.0,926.88
+2025-08-04,Loja Centro,Sudeste,Notebook,Eletrônicos,4.0,2988.08
+2025-08-04,Loja Salvador,Nordeste,Mouse,Acessórios,7.0,70.44
+2025-08-05,Loja Porto Alegre,Sul,Monitor,Eletrônicos,7.0,1012.62
+2025-08-06,Loja Centro,Sudeste,Smartphone,Eletrônicos,3.0,1959.77
+2025-08-06,Loja Recife,Nordeste,Cadeira Gamer,Móveis,7.0,803.7
+2025-08-07,Loja Porto Alegre,Sul,Notebook,Eletrônicos,2.0,3137.84
+2025-08-07,Loja Porto Alegre,Sul,Mesa de Escritório,Móveis,1.0,653.42
+2025-08-09,Loja Salvador,Nordeste,Cadeira Gamer,Móveis,4.0,796.89
+2025-08-09,Loja Porto Alegre,Sul,Mouse,Acessórios,7.0,73.31
+2025-08-10,Loja Salvador,Nordeste,Impressora,Eletrônicos,3.0,720.33
+2025-08-10,Loja Centro,Sudeste,Notebook,Eletrônicos,4.0,3132.87
+2025-08-12,Loja Porto Alegre,Sul,Mesa de Escritório,Móveis,3.0,626.63
+2025-08-13,Loja Porto Alegre,Sul,Smartphone,Eletrônicos,6.0,1937.82
+2025-08-15,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,9.0,3110.92
+2025-08-17,Loja Brasília,Centro-Oeste,Impressora,Eletrônicos,5.0,854.44
+2025-08-18,Loja Centro,Sudeste,Smartphone,Eletrônicos,3.0,1690.24
+2025-08-18,Loja Savassi,Sudeste,Mouse,Acessórios,6.0,75.97
+2025-08-18,Loja Salvador,Nordeste,Teclado,Acessórios,3.0,121.3
+2025-08-19,Loja Porto Alegre,Sul,Monitor,Eletrônicos,4.0,1014.12
+2025-08-19,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,5.0,2966.2
+2025-08-20,Loja Salvador,Nordeste,Webcam,Acessórios,6.0,235.25
+2025-08-20,Loja Recife,Nordeste,Mouse,Acessórios,9.0,65.25
+2025-08-20,Loja Porto Alegre,Sul,Mesa de Escritório,Móveis,2.0,633.7
+2025-08-20,Loja Salvador,Nordeste,Teclado,Acessórios,7.0,127.69
+2025-08-21,Loja Centro,Sudeste,Monitor,Eletrônicos,7.0,992.39
+2025-08-23,Loja Recife,Nordeste,Monitor,Eletrônicos,7.0,973.15
+2025-08-23,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,2.0,2964.83
+2025-08-24,Loja Savassi,Sudeste,Impressora,Eletrônicos,9.0,840.88
+2025-08-26,Loja Porto Alegre,Sul,Smartphone,Eletrônicos,2.0,1974.31
+2025-08-26,Loja Centro,Sudeste,Teclado,Acessórios,7.0,109.52
+2025-08-27,Loja Brasília,Centro-Oeste,Monitor,Eletrônicos,8.0,856.04
+2025-08-27,Loja Salvador,Nordeste,Impressora,Eletrônicos,5.0,831.25
+2025-08-29,Loja Porto Alegre,Sul,Impressora,Eletrônicos,2.0,744.52
+2025-08-30,Loja Savassi,Sudeste,Monitor,Eletrônicos,7.0,921.1
+2025-08-30,Loja Porto Alegre,Sul,Mouse,Acessórios,7.0,70.95
+2025-08-30,Loja Centro,Sudeste,Fone de Ouvido,Acessórios,8.0,148.91
+2025-08-30,Loja Porto Alegre,Sul,Teclado,Acessórios,4.0,108.58
+2025-08-31,Loja Salvador,Nordeste,Teclado,Acessórios,6.0,113.25
+2025-08-31,Loja Recife,Nordeste,Fone de Ouvido,Acessórios,2.0,155.07
+2025-08-31,Loja Recife,Nordeste,Notebook,Eletrônicos,9.0,3121.11
+2025-08-31,Loja Porto Alegre,Sul,Impressora,Eletrônicos,4.0,838.76
+2025-09-01,Loja Brasília,Centro-Oeste,Fone de Ouvido,Acessórios,5.0,148.97
+2025-09-01,Loja Salvador,Nordeste,Mouse,Acessórios,3.0,64.84
+2025-09-02,Loja Porto Alegre,Sul,Fone de Ouvido,Acessórios,3.0,152.79
+2025-09-02,Loja Brasília,Centro-Oeste,Webcam,Acessórios,,223.93
+2025-09-03,Loja Savassi,Sudeste,Fone de Ouvido,Acessórios,7.0,140.96
+2025-09-05,Loja Brasília,Centro-Oeste,Mouse,Acessórios,5.0,75.44
+2025-09-05,Loja Brasília,Centro-Oeste,Smartphone,Eletrônicos,4.0,1696.71
+2025-09-05,Loja Savassi,Sudeste,Impressora,Eletrônicos,7.0,737.24
+2025-09-06,Loja Brasília,Centro-Oeste,Mesa de Escritório,Móveis,5.0,593.94
+2025-09-07,Loja Savassi,Sudeste,Webcam,Acessórios,7.0,241.85
+2025-09-07,Loja Recife,Nordeste,Cadeira Gamer,Móveis,8.0,793.23
+2025-09-07,Loja Centro,Sudeste,Mouse,Acessórios,5.0,76.1
+2025-09-08,Loja Recife,Nordeste,Mesa de Escritório,Móveis,4.0,555.37
+2025-09-09,Loja Centro,Sudeste,Smartphone,Eletrônicos,9.0,1738.87
+2025-09-11,Loja Centro,Sudeste,Notebook,Eletrônicos,2.0,3212.11
+2025-09-12,Loja Centro,Sudeste,Webcam,Acessórios,7.0,241.72
+2025-09-12,Loja Recife,Nordeste,Mesa de Escritório,Móveis,5.0,598.34
+2025-09-12,Loja Brasília,Centro-Oeste,Webcam,Acessórios,6.0,240.87
+2025-09-13,Loja Brasília,Centro-Oeste,Mouse,Acessórios,5.0,67.35
+2025-09-13,Loja Salvador,Nordeste,Notebook,Eletrônicos,2.0,3476.98
+2025-09-13,Loja Brasília,Centro-Oeste,Impressora,Eletrônicos,8.0,758.28
+2025-09-14,Loja Centro,Sudeste,Monitor,Eletrônicos,6.0,941.72
+2025-09-15,Loja Porto Alegre,Sul,Webcam,Acessórios,9.0,239.6
+2025-09-16,Loja Brasília,Centro-Oeste,Teclado,Acessórios,4.0,113.9
+2025-09-19,Loja Salvador,Nordeste,Notebook,Eletrônicos,8.0,3053.25
+2025-09-19,Loja Brasília,Centro-Oeste,Monitor,Eletrônicos,4.0,1040.42
+2025-09-19,Loja Porto Alegre,Sul,Impressora,Eletrônicos,9.0,803.66
+2025-09-19,Loja Porto Alegre,Sul,Smartphone,Eletrônicos,9.0,1767.62
+2025-09-20,Loja Recife,Nordeste,Mesa de Escritório,Móveis,6.0,640.09
+2025-09-20,Loja Salvador,Nordeste,Smartphone,Eletrônicos,8.0,1971.26
+2025-09-21,Loja Salvador,Nordeste,Teclado,Acessórios,4.0,127.42
+2025-09-21,Loja Recife,Nordeste,Fone de Ouvido,Acessórios,1.0,145.85
+2025-09-22,Loja Salvador,Nordeste,Cadeira Gamer,Móveis,1.0,792.53
+2025-09-23,Loja Salvador,Nordeste,Notebook,Eletrônicos,5.0,3491.87
+2025-09-24,Loja Recife,Nordeste,Teclado,Acessórios,9.0,110.66
+2025-09-26,Loja Centro,Sudeste,Monitor,Eletrônicos,1.0,1005.67
+2025-09-26,Loja Salvador,Nordeste,Teclado,Acessórios,7.0,121.47
+2025-09-26,Loja Salvador,Nordeste,Monitor,Eletrônicos,6.0,879.12
+2025-09-26,Loja Centro,Sudeste,Mouse,Acessórios,4.0,
+2025-09-27,Loja Salvador,Nordeste,Mesa de Escritório,Móveis,3.0,576.7
+2025-09-27,Loja Savassi,Sudeste,Webcam,Acessórios,1.0,235.92
+2025-09-29,Loja Centro,Sudeste,Monitor,Eletrônicos,5.0,954.95
+2025-09-29,Loja Salvador,Nordeste,Impressora,Eletrônicos,3.0,764.6
+2025-09-30,Loja Savassi,Sudeste,Teclado,Acessórios,1.0,117.19
+2025-09-30,Loja Recife,Nordeste,Mesa de Escritório,Móveis,5.0,641.74
+2025-09-30,Loja Porto Alegre,Sul,Mesa de Escritório,Móveis,4.0,563.42
+2025-10-01,Loja Porto Alegre,Sul,Webcam,Acessórios,4.0,236.16
+2025-10-01,Loja Centro,Sudeste,Smartphone,Eletrônicos,1.0,1901.85
+2025-10-02,Loja Brasília,Centro-Oeste,Cadeira Gamer,Móveis,3.0,806.94
+2025-10-04,Loja Centro,Sudeste,Monitor,Eletrônicos,7.0,884.93
+2025-10-04,Loja Brasília,Centro-Oeste,Mesa de Escritório,Móveis,1.0,578.45
+2025-10-04,Loja Centro,Sudeste,Impressora,Eletrônicos,5.0,844.34
+2025-10-05,Loja Porto Alegre,Sul,Fone de Ouvido,Acessórios,1.0,137.99
+2025-10-05,Loja Porto Alegre,Sul,Webcam,Acessórios,5.0,214.96
+2025-10-06,Loja Recife,Nordeste,Mouse,Acessórios,4.0,76.5
+2025-10-07,Loja Centro,Sudeste,Notebook,Eletrônicos,2.0,3241.65
+2025-10-07,Loja Recife,Nordeste,Impressora,Eletrônicos,9.0,792.89
+2025-10-07,Loja Brasília,Centro-Oeste,Impressora,Eletrônicos,1.0,828.35
+2025-10-08,Loja Porto Alegre,Sul,Smartphone,Eletrônicos,1.0,1782.38
+2025-10-08,Loja Recife,Nordeste,Teclado,Acessórios,7.0,112.74
+2025-10-09,Loja Centro,Sudeste,Impressora,Eletrônicos,9.0,
+2025-10-09,Loja Centro,Sudeste,Teclado,Acessórios,7.0,117.72
+2025-10-10,Loja Salvador,Nordeste,Teclado,Acessórios,5.0,121.22
+2025-10-11,Loja Salvador,Nordeste,Mesa de Escritório,Móveis,,556.81
+2025-10-12,Loja Recife,Nordeste,Mouse,Acessórios,8.0,75.93
+2025-10-12,Loja Centro,Sudeste,Fone de Ouvido,Acessórios,3.0,152.92
+2025-10-12,Loja Brasília,Centro-Oeste,Fone de Ouvido,Acessórios,6.0,156.24
+2025-10-12,Loja Brasília,Centro-Oeste,Smartphone,Eletrônicos,3.0,1724.34
+2025-10-12,Loja Brasília,Centro-Oeste,Impressora,Eletrônicos,2.0,
+2025-10-13,Loja Recife,Nordeste,Teclado,Acessórios,7.0,112.13
+2025-10-13,Loja Salvador,Nordeste,Mouse,Acessórios,4.0,76.93
+2025-10-14,Loja Centro,Sudeste,Impressora,Eletrônicos,4.0,848.41
+2025-10-14,Loja Recife,Nordeste,Smartphone,Eletrônicos,1.0,1807.89
+2025-10-14,Loja Salvador,Nordeste,Mouse,Acessórios,2.0,65.29
+2025-10-15,Loja Salvador,Nordeste,Mesa de Escritório,Móveis,7.0,615.12
+2025-10-15,Loja Recife,Nordeste,Cadeira Gamer,Móveis,3.0,922.68
+2025-10-15,Loja Salvador,Nordeste,Fone de Ouvido,Acessórios,2.0,160.26
+2025-10-17,Loja Porto Alegre,Sul,Monitor,Eletrônicos,6.0,1026.55
+2025-10-17,Loja Brasília,Centro-Oeste,Mesa de Escritório,Móveis,,632.49
+2025-10-18,Loja Savassi,Sudeste,Monitor,Eletrônicos,2.0,1038.08
+2025-10-18,Loja Recife,Nordeste,Mesa de Escritório,Móveis,8.0,574.54
+2025-10-18,Loja Brasília,Centro-Oeste,Mouse,Acessórios,1.0,76.59
+2025-10-18,Loja Centro,Sudeste,Cadeira Gamer,Móveis,3.0,905.55
+2025-10-20,Loja Porto Alegre,Sul,Monitor,Eletrônicos,5.0,1000.35
+2025-10-20,Loja Recife,Nordeste,Fone de Ouvido,Acessórios,6.0,143.85
+2025-10-21,Loja Savassi,Sudeste,Monitor,Eletrônicos,9.0,890.88
+2025-10-21,Loja Salvador,Nordeste,Webcam,Acessórios,,226.99
+2025-10-21,Loja Porto Alegre,Sul,Impressora,Eletrônicos,5.0,801.91
+2025-10-21,Loja Savassi,Sudeste,Monitor,Eletrônicos,3.0,972.59
+2025-10-21,Loja Savassi,Sudeste,Cadeira Gamer,Móveis,7.0,893.44
+2025-10-22,Loja Centro,Sudeste,Fone de Ouvido,Acessórios,8.0,136.81
+2025-10-23,Loja Salvador,Nordeste,Cadeira Gamer,Móveis,6.0,780.26
+2025-10-23,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,7.0,3187.92
+2025-10-25,Loja Salvador,Nordeste,Notebook,Eletrônicos,7.0,3214.24
+2025-10-26,Loja Savassi,Sudeste,Mesa de Escritório,Móveis,1.0,646.02
+2025-10-27,Loja Savassi,Sudeste,Mesa de Escritório,Móveis,1.0,590.11
+2025-10-28,Loja Porto Alegre,Sul,Impressora,Eletrônicos,9.0,776.27
+2025-10-29,Loja Savassi,Sudeste,Mesa de Escritório,Móveis,6.0,607.62
+2025-10-29,Loja Centro,Sudeste,Fone de Ouvido,Acessórios,7.0,163.82
+2025-10-29,Loja Salvador,Nordeste,Notebook,Eletrônicos,9.0,3291.04
+2025-10-30,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,4.0,3405.12
+2025-10-30,Loja Recife,Nordeste,Smartphone,Eletrônicos,,1873.81
+2025-10-30,Loja Porto Alegre,Sul,Cadeira Gamer,Móveis,7.0,915.97
+2025-10-30,Loja Savassi,Sudeste,Smartphone,Eletrônicos,3.0,1772.18
+2025-10-31,Loja Savassi,Sudeste,Notebook,Eletrônicos,3.0,3236.48
+2025-10-31,Loja Recife,Nordeste,Mesa de Escritório,Móveis,5.0,565.74
+2025-10-31,Loja Brasília,Centro-Oeste,Webcam,Acessórios,8.0,225.86
+2025-10-31,Loja Salvador,Nordeste,Cadeira Gamer,Móveis,5.0,861.55
+2025-10-31,Loja Savassi,Sudeste,Fone de Ouvido,Acessórios,6.0,156.3
+2025-11-01,Loja Brasília,Centro-Oeste,Mouse,Acessórios,5.0,74.15
+2025-11-02,Loja Recife,Nordeste,Teclado,Acessórios,9.0,128.55
+2025-11-03,Loja Savassi,Sudeste,Webcam,Acessórios,5.0,241.12
+2025-11-03,Loja Centro,Sudeste,Webcam,Acessórios,2.0,227.77
+2025-11-03,Loja Porto Alegre,Sul,Webcam,Acessórios,1.0,215.56
+2025-11-04,Loja Centro,Sudeste,Mesa de Escritório,Móveis,8.0,549.33
+2025-11-04,Loja Brasília,Centro-Oeste,Teclado,Acessórios,8.0,121.31
+2025-11-05,Loja Centro,Sudeste,Fone de Ouvido,Acessórios,8.0,164.96
+2025-11-06,Loja Salvador,Nordeste,Smartphone,Eletrônicos,2.0,1882.21
+2025-11-07,Loja Recife,Nordeste,Monitor,Eletrônicos,9.0,
+2025-11-07,Loja Porto Alegre,Sul,Monitor,Eletrônicos,2.0,1030.16
+2025-11-08,Loja Porto Alegre,Sul,Impressora,Eletrônicos,2.0,796.72
+2025-11-09,Loja Brasília,Centro-Oeste,Notebook,Eletrônicos,9.0,3388.64
+2025-11-09,Loja Salvador,Nordeste,Webcam,Acessórios,4.0,212.55
+2025-11-09,Loja Savassi,Sudeste,Smartphone,Eletrônicos,2.0,1840.4
+2025-11-10,Loja Savassi,Sudeste,Notebook,Eletrônicos,9.0,3012.47
+2025-11-10,Loja Recife,Nordeste,Impressora,Eletrônicos,1.0,709.72
+2025-11-12,Loja Centro,Sudeste,Monitor,Eletrônicos,8.0,925.59
+2025-11-13,Loja Centro,Sudeste,Smartphone,Eletrônicos,8.0,1849.76
+2025-11-13,Loja Porto Alegre,Sul,Webcam,Acessórios,3.0,238.18
+2025-11-16,Loja Recife,Nordeste,Smartphone,Eletrônicos,8.0,1865.28
+2025-11-16,Loja Brasília,Centro-Oeste,Cadeira Gamer,Móveis,2.0,930.3
+2025-11-18,Loja Brasília,Centro-Oeste,Cadeira Gamer,Móveis,1.0,822.27
+2025-11-20,Loja Centro,Sudeste,Smartphone,Eletrônicos,3.0,1659.12
+2025-11-21,Loja Savassi,Sudeste,Cadeira Gamer,Móveis,4.0,801.4
+2025-11-21,Loja Recife,Nordeste,Monitor,Eletrônicos,7.0,877.82
+2025-11-22,Loja Recife,Nordeste,Teclado,Acessórios,5.0,112.93
+2025-11-22,Loja Recife,Nordeste,Mesa de Escritório,Móveis,6.0,599.75
+2025-11-22,Loja Porto Alegre,Sul,Fone de Ouvido,Acessórios,3.0,153.41
+2025-11-22,Loja Savassi,Sudeste,Webcam,Acessórios,5.0,211.04
+2025-11-23,Loja Savassi,Sudeste,Mouse,Acessórios,9.0,67.84
+2025-11-23,Loja Savassi,Sudeste,Impressora,Eletrônicos,9.0,843.74
+2025-11-24,Loja Centro,Sudeste,Impressora,Eletrônicos,2.0,755.93
+2025-11-24,Loja Brasília,Centro-Oeste,Mouse,Acessórios,2.0,68.95
+2025-11-25,Loja Savassi,Sudeste,Monitor,Eletrônicos,1.0,975.5
+2025-11-26,Loja Savassi,Sudeste,Webcam,Acessórios,2.0,211.54
+2025-11-26,Loja Brasília,Centro-Oeste,Teclado,Acessórios,5.0,131.32
+2025-11-27,Loja Recife,Nordeste,Notebook,Eletrônicos,1.0,2989.02
+2025-11-27,Loja Centro,Sudeste,Fone de Ouvido,Acessórios,4.0,149.02
+2025-11-28,Loja Savassi,Sudeste,Fone de Ouvido,Acessórios,1.0,136.89
+2025-12-01,Loja Recife,Nordeste,Teclado,Acessórios,1.0,108.74
+2025-12-01,Loja Centro,Sudeste,Teclado,Acessórios,1.0,114.83
+2025-12-01,Loja Centro,Sudeste,Smartphone,Eletrônicos,6.0,1893.8
+2025-12-03,Loja Recife,Nordeste,Smartphone,Eletrônicos,2.0,1762.72
+2025-12-03,Loja Savassi,Sudeste,Fone de Ouvido,Acessórios,7.0,136.33
+2025-12-04,Loja Savassi,Sudeste,Fone de Ouvido,Acessórios,8.0,160.26
+2025-12-04,Loja Savassi,Sudeste,Mouse,Acessórios,8.0,72.98
+2025-12-04,Loja Salvador,Nordeste,Notebook,Eletrônicos,7.0,3085.27
+2025-12-04,Loja Porto Alegre,Sul,Notebook,Eletrônicos,5.0,3055.45
+2025-12-04,Loja Brasília,Centro-Oeste,Impressora,Eletrônicos,4.0,756.33
+2025-12-05,Loja Centro,Sudeste,Cadeira Gamer,Móveis,3.0,921.97
+2025-12-05,Loja Centro,Sudeste,Mouse,Acessórios,2.0,76.45
+2025-12-05,Loja Porto Alegre,Sul,Cadeira Gamer,Móveis,8.0,874.87
+2025-12-05,Loja Centro,Sudeste,Fone de Ouvido,Acessórios,9.0,141.24
+2025-12-07,Loja Centro,Sudeste,Mesa de Escritório,Móveis,9.0,644.09
+2025-12-07,Loja Recife,Nordeste,Mesa de Escritório,Móveis,4.0,634.43
+2025-12-08,Loja Salvador,Nordeste,Fone de Ouvido,Acessórios,3.0,144.43
+2025-12-08,Loja Salvador,Nordeste,Fone de Ouvido,Acessórios,3.0,147.9
+2025-12-08,Loja Centro,Sudeste,Webcam,Acessórios,9.0,231.08
+2025-12-09,Loja Savassi,Sudeste,Teclado,Acessórios,5.0,111.71
+2025-12-09,Loja Salvador,Nordeste,Webcam,Acessórios,6.0,200.24
+2025-12-09,Loja Brasília,Centro-Oeste,Impressora,Eletrônicos,6.0,769.25
+2025-12-10,Loja Salvador,Nordeste,Mesa de Escritório,Móveis,4.0,583.04
+2025-12-12,Loja Recife,Nordeste,Monitor,Eletrônicos,6.0,931.32
+2025-12-13,Loja Recife,Nordeste,Mouse,Acessórios,1.0,71.12
+2025-12-14,Loja Recife,Nordeste,Cadeira Gamer,Móveis,4.0,841.2
+2025-12-15,Loja Recife,Nordeste,Cadeira Gamer,Móveis,2.0,900.33
+2025-12-15,Loja Recife,Nordeste,Notebook,Eletrônicos,8.0,3294.84
+2025-12-16,Loja Centro,Sudeste,Fone de Ouvido,Acessórios,4.0,149.93
+2025-12-17,Loja Porto Alegre,Sul,Fone de Ouvido,Acessórios,7.0,160.04
+2025-12-17,Loja Savassi,Sudeste,Cadeira Gamer,Móveis,3.0,816.22
+2025-12-17,Loja Recife,Nordeste,Smartphone,Eletrônicos,,1715.77
+2025-12-18,Loja Centro,Sudeste,Smartphone,Eletrônicos,5.0,1901.6
+2025-12-18,Loja Brasília,Centro-Oeste,Cadeira Gamer,Móveis,6.0,824.85
+2025-12-18,Loja Porto Alegre,Sul,Fone de Ouvido,Acessórios,3.0,146.92
+2025-12-19,Loja Porto Alegre,Sul,Mouse,Acessórios,1.0,74.91
+2025-12-20,Loja Porto Alegre,Sul,Mesa de Escritório,Móveis,5.0,540.52
+2025-12-20,Loja Savassi,Sudeste,Webcam,Acessórios,4.0,239.74
+2025-12-20,Loja Centro,Sudeste,Webcam,Acessórios,2.0,202.15
+2025-12-20,Loja Salvador,Nordeste,Teclado,Acessórios,7.0,113.66
+2025-12-21,Loja Brasília,Centro-Oeste,Mouse,Acessórios,4.0,74.4
+2025-12-21,Loja Savassi,Sudeste,Impressora,Eletrônicos,6.0,743.31
+2025-12-22,Loja Savassi,Sudeste,Cadeira Gamer,Móveis,7.0,885.39
+2025-12-22,Loja Salvador,Nordeste,Mesa de Escritório,Móveis,3.0,630.55
+2025-12-23,Loja Porto Alegre,Sul,Mesa de Escritório,Móveis,6.0,639.19
+2025-12-24,Loja Salvador,Nordeste,Fone de Ouvido,Acessórios,2.0,155.67
+2025-12-25,Loja Salvador,Nordeste,Monitor,Eletrônicos,2.0,874.21
+2025-12-26,Loja Savassi,Sudeste,Cadeira Gamer,Móveis,3.0,
+2025-12-28,Loja Brasília,Centro-Oeste,Webcam,Acessórios,6.0,226.74
+2025-12-28,Loja Brasília,Centro-Oeste,Cadeira Gamer,Móveis,2.0,805.96
+2025-12-29,Loja Salvador,Nordeste,Smartphone,Eletrônicos,4.0,1973.57
+2025-12-29,Loja Recife,Nordeste,Smartphone,Eletrônicos,5.0,1894.74
+2025-12-30,Loja Recife,Nordeste,Mouse,Acessórios,3.0,74.03
+2025-12-30,Loja Savassi,Sudeste,Notebook,Eletrônicos,8.0,3307.73
+2025-12-31,Loja Salvador,Nordeste,Mouse,Acessórios,4.0,75.79

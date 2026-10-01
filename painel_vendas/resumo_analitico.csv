@@ -1,0 +1,24 @@
+﻿metrica,item,valor
+Faturamento por loja,Loja Centro,486722.42
+Faturamento por loja,Loja Salvador,473648.51
+Faturamento por loja,Loja Brasília,472524.11
+Faturamento por loja,Loja Recife,472015.63
+Faturamento por loja,Loja Porto Alegre,380365.28
+Faturamento por loja,Loja Savassi,338754.87
+Ticket médio por loja,Loja Centro,4680.02
+Ticket médio por loja,Loja Brasília,4678.46
+Ticket médio por loja,Loja Salvador,4643.61
+Ticket médio por loja,Loja Recife,4140.49
+Ticket médio por loja,Loja Savassi,4081.38
+Ticket médio por loja,Loja Porto Alegre,3962.14
+Top 5 produtos (quantidade),Impressora,329.0
+Top 5 produtos (quantidade),Monitor,327.0
+Top 5 produtos (quantidade),Notebook,317.0
+Top 5 produtos (quantidade),Fone de Ouvido,305.0
+Top 5 produtos (quantidade),Mesa de Escritório,305.0
+Faturamento por região,Nordeste,945664.14
+Faturamento por região,Sudeste,825477.28
+Faturamento por região,Centro-Oeste,472524.11
+Faturamento por região,Sul,380365.28
+Mês de maior faturamento,Fevereiro/2025,294345.16
+Mês de menor faturamento,Novembro/2025,164486.09
